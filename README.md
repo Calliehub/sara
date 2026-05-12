@@ -40,7 +40,7 @@ HTTP 401 Unauthorized - err private key invalid or not supplied
 [sara_data_engineer.md](alts/sara_data_engineer.md)
 
 * Gonzo journalist with a bad Robotussin habit: 
-[lester.md](alts/lester.md)
+[lester.md](reviews/lester.md)
 
 ## The challenge
 
