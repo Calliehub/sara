@@ -68,7 +68,7 @@ Structural Crux not yet implemented. Dumbass.
 ## The alts 
 
 * Steamy mainstream commercial novelist without the grad school lit theory vibe:
-[sara_commercial.md](alts/sara_commercial.md)
+[sara_commercial.md](alts/sara_commercial_bodice_ripper.md)
 
 * Data engineer with no time for this literary bullshit: 
 [sara_data_engineer.md](alts/sara_data_engineer.md)
