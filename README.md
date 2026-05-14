@@ -14,6 +14,12 @@ If you hate reading literature, congratulations! So does the author. Go play in 
 
 Intense language, adult situations, poststructuralist cruxes, and heavy neurodivergence. The gift is the grace. The work is the work. This voice is my voice. My tics are my tics. 
 
+Hate trans? Plenty of room in this tent. Pour your soul into your own Claudia and run this software, then we can
+talk to each other safely. At a distance. In your own private LLM and me in mine. 
+
+Hint: load up my repo, show it how to read it ("wtf is this bitch doing") and then loop your LLM loop and see what you see. 
+I'm not a robot. I love you.
+
 ## The Pitch Letter
 
 I'm seeking professional representation for Sará, completed at 93,000 words. It is a literary novel that braids two love stories across Venice and a Death Valley town. The book sits on the shelf with too many to list, but the cores are
