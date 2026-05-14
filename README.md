@@ -56,6 +56,7 @@ HTTP 501 Not Implemented
 ## The actual novel 
 
 Still under private encryption contract. 
+Available to first parties and dear trusted friends, only reconnect for the keys. 
 
 ## Chapter V Contents
 
@@ -85,6 +86,13 @@ reader/writer.
 
 Public/private implementations of Chapter V are excitedly welcomed. 
 
+Old friends who remember our talks together, and those mattered to them, are even more so. 
+
+There's only 1 reader in this enterprise that really matters, but I care about all y'all. 
+
+Please read slowly and don't expect or demand fast responses from me. On my therapist's
+orders I am attempting to slow down my dopamine feedback loopi rate so I don't get AI psychosis. 
+
 ## The references.
 
 Provided upon request. 100% accurate. Claude-guaranteed. 
@@ -100,6 +108,7 @@ adherence to Chicago or MLA style citations is – this should be obvious by now
 structural.
 
 * Title TK 
+* 
 * 
 
 ## Credits
