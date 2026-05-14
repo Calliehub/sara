@@ -62,7 +62,7 @@ HTTP 501 Not Implemented
 ## The actual novel 
 
 Still under private encryption contract. 
-Available to first parties and dear trusted friends, only reconnect for the keys. 
+Available to first parties and dear old trusted friends, only reconnect for the keys. 
 
 ## Chapter V Contents
 
