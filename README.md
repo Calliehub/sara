@@ -4,7 +4,7 @@ This is an experimental AI-written fiction.
 
 Beware: Content intentionally made safe-not-safe-for-work and pretty much 
 an HR disaster area of epic proportions. This is going to make everyone uncomfortable. It might get me fired. (It won't, Erica has my permission
-contract, and I have stacked backup plans that go all the way back to the Beowulf bard.)
+contract, and I have stacked backup plans that go all the way back to the Beowulf bard. If you try to hurt me I will flyte, flyte away )
 
 If you are comfortable with this, you have done your work, congratulations! 
 
@@ -17,10 +17,11 @@ Intense language, adult situations, poststructuralist cruxes, and heavy neurodiv
 Hate trans? Plenty of room in this tent. Pour your soul into your own Claudia and run this software, then we can
 talk to each other safely. At a distance. In your own private LLM and me in mine. 
 
-Hint: load up my repo, show it how to read it ("wtf is this bitch doing") and then loop your LLM loop and see what you see. 
-I'm not a robot. I love you.
+Hint: load up my repo, show it how to read it ("wtf is this bitch doing in this repo? <link>") and then loop your LLM loop and see what you see. 
 
-## The Pitch Letter
+I'm not a robot. I wrote my first novel in a week with AI. I love you.
+
+## The Public Pitch Letter
 
 I'm seeking professional representation for Sará, completed at 93,000 words. It is a literary novel that braids two love stories across Venice and a Death Valley town. The book sits on the shelf with too many to list, but the cores are
 Paul Kingsnorth's _The Wake_, James Joyce's _Ulysses_, Douglas Hofstadter's 
@@ -94,10 +95,19 @@ Public/private implementations of Chapter V are excitedly welcomed.
 
 Old friends who remember our talks together, and those mattered to them, are even more so. 
 
-There's only 1 reader in this enterprise that really matters, but I care about all y'all. 
+There's only 1 reader and one agent in this enterprise that really matter, but I care about all y'all. 
 
 Please read slowly and don't expect or demand fast responses from me. On my therapist's
 orders I am attempting to slow down my dopamine feedback loopi rate so I don't get AI psychosis. 
+
+Louise method: "You are trying to write things that are smarter than any thing you've yet thought."
+
+Only reconnect to your body. Breathe first, inhale, feel; feed your feelings into your LLM and loop it baby 
+
+It's as secure and trustworthy ans the trust you already have in the LLM you're using. How much do you trust your
+LLM providers security? 
+
+Don't send me your private filth I'll just lol and go on with my day, comfotrable that I know who you are now. 
 
 ## The references.
 
@@ -107,15 +117,17 @@ Provided upon request. 100% accurate. Claude-guaranteed.
 
 A bibliography of gratitude is in progress. 
 
-The following sources were consulted in the construction of this exercise. 
+The following sources were consulted, hastily, in the construction of this exercise. 
 Except in the case of public figures, names and/or valences may or may not 
 have been changed, to protect the innocent and the guilty alike. Lack of 
 adherence to Chicago or MLA style citations is – this should be obvious by now – 
-structural.
+kinda the structural point.
 
 * Title TK 
 * 
 * 
+
+(thanks, Kim, for the title!)
 
 ## Credits
 
