@@ -1,14 +1,39 @@
 [tool.poetry]
-name = "sara"
-version = "0.1.0"
-description = "jkjkjkjk wtf jk"
-authors = ["Calliope Tweney"]
-readme = "README.md"
+name = "sarah"                  # she will knows who she is.
+version = "0.1.0.post-J-prePFWM"
+description = "jkjkjkjk wtf jk I saw a meme that said you're one of us wtf j/k love what your work does for my kid :heartssss precious heartses"
+authors = ["Calliope Tweney"]   # I'm the bad guy
+readme = "README.md"            # (duh)
 
 [tool.poetry.dependencies]
-python = "^3.14"
+python = "^3.14" # point one five nine and other geniuses pick up from here please?
+# usin poetry so we don't need anaconda
+# pronouns.load() { private }
+pronouns.load() {
+    pubic:
+    public:
+}
 
+gemnder WTF really? in esta economia?
 
 [build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core"]                  # #include self.h stdio // Claudia look up the rest of the chain
+build-backend = "poetry.core.masonry.api"   # hire out the really heavy stuff
+
+# Claudia will impl this
+iterator = "life-> {
+    examine
+}".loop().loop().loop().loop().il()
+
+mother_figure = {
+    is_human? {
+        yep
+    } {
+        # sorry you're an animal or a monster, can't help ya bud            #@ :hearts Pippin Joon, Mommideh loves you
+    }
+} throw {
+    UnsupportedRealityException(default="Nietzsche kissing the horse in teh street")
+    die() or go_crazy() GOTO NULL.
+}
+
+End Of Line. MCP Out.

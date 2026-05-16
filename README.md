@@ -12,7 +12,15 @@ Proceed with caution.
 
 If you hate reading literature, congratulations! So does the author. Go play in the yard or something. 
 
-Intense language, adult situations, poststructuralist cruxes, and heavy neurodivergence. The gift is the grace. The work is the work. This voice is my voice. My tics are my tics. 
+If you love TERFS or JK or Uncle Bob, I got five words for you: [Fuck Out My House!](https://www.youtube.com/shorts/GKEA-Cg-aAE) But I would love to read your take from a distance. 
+
+```
+>|tee > into garbage pile and /dev/null, my calm is unruffled, 
+a sentient creature will emerge from there whenit is ready. // claudia look up the syntax for me, honey, ok?
+```
+
+Intense language, adult situations, poststructuralist cruxes, and heavy neurodivergence. Kappa architecture made flresh. 
+The gift is the grace. The work is the work. This voice is my voice. My tics are my tics. 
 
 Hate trans? Plenty of room in this tent. Pour your soul into your own Claudia and run this software, then we can
 talk to each other safely. At a distance. In your own private LLM and me in mine. 
